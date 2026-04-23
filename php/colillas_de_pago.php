@@ -16,22 +16,17 @@
                     <h1>Colillas de pago Contento BPS</h1>
                     <p>Aquí podrás consultar todas tus colillas de pago generadas hasta la fecha</p>
                 <form>
-                    
+                    <h2>INGRESA LOS DATOS</h2>
                     <input type="text" placeholder="Mes a consultar" name="nombre_completo">
                     <input type="text" placeholder="Periodo a consultar" name="correo">
                 </form>
-
+                <div class="caja__botones">
                     <button id="btn__consultar">Consultar</button>
-
+                    <li><a href="../php/bienvenida.php">Volver al inicio</a></li>
+                    <li><a href="cerrar_sesion.php">Cerrar sesión</a></li>
                 </div>
-
-        </div>
-
-                
-
             </div>
         </div>
-        <li><a href="cerrar_sesion.php">Cerrar sesión</a></li>
     </main>
 
 

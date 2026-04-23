@@ -71,6 +71,7 @@ a {
     color: rgb(130, 161, 124);
     list-style: none;
     transition: all 300ms ease;
+    
 }
 
 .caja__trasera button:hover{
@@ -92,6 +93,11 @@ form h1{
     margin-bottom: 20px;
     color: #e4e7e2;
 }
+form h2{
+    font-size: 30px;text-align: center;
+    margin-bottom: 20px;
+    color: #e4e7e2;
+}
 
 form input{
     width: 100%;
@@ -106,3 +112,7 @@ p{
     padding: 40px 20px;
 }
 
+.caja__botones{
+   padding: 10px 20px;
+    list-style: none;
+}
