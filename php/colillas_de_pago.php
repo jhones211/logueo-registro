@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Colillas de pago - JARVIS</title>
     <script src="https://kit.fontawesome.com/8a9c1770f6.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="../assets/css/stilos_colillas.css">
+    <link rel="stylesheet" href="../assets/css/estilos_colillas.css">
 </head>
 <body>
     <main>
@@ -22,13 +22,16 @@
                 </form>
                 <div class="caja__botones">
                     <button id="btn__consultar">Consultar</button>
-                    <li><a href="../php/bienvenida.php">Volver al inicio</a></li>
-                    <li><a href="cerrar_sesion.php">Cerrar sesión</a></li>
+
                 </div>
+
+                                    <li><a href="../php/bienvenida.php">Volver al inicio</a></li>
+
             </div>
+
         </div>
     </main>
 
-
+                                <li><a href="cerrar_sesion.php">Cerrar sesión</a></li>
 </body>
 </html>
